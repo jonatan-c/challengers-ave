@@ -20,3 +20,6 @@ Item1 - Get total of pokemons by type.
 
 Item2 - Function to get all Pokémon that belong to two specific types
 `node item2.js`
+
+Item3 - Function to get the number of a Pokémon by name.
+`node item3.js`
