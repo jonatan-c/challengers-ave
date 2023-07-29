@@ -37,3 +37,15 @@ Item6 - Function to check if a Pokémon has a specific type by its number
 
 `node index.js`
 
+### Problem4 - Function analyze function with numbers
+
+`node index.js`
+
+### Problem5 - Page to check password
+
+`cd page-input-password`
+`npm install`
+`npm run dev`
+
+
+I change the ui because I think it's better to see the result in center page and not occupy all page (width);
