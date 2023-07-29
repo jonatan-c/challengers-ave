@@ -18,3 +18,5 @@ You can choice the item.
 Item1 - Get total of pokemons by type.
 `node item1.js`
 
+Item2 - Function to get all Pokémon that belong to two specific types
+`node item2.js`
