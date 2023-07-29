@@ -12,3 +12,9 @@ In line 15 and 16 you can change the values of the variables `x` and `y` to test
 
 `node index.js`
 
+## Problem2 - Functions with pokemon api.
+    
+You can choice the item.
+Item1 - Get total of pokemons by type.
+`node item1.js`
+
