@@ -37,3 +37,6 @@ Item6 - Function to check if a Pokémon has a specific type by its number
 
 `node index.js`
 
+### Problem4 - Function to analyze the numbers of the array.
+
+`node index.js`
