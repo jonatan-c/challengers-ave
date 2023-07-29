@@ -56,3 +56,9 @@ I change the ui because I think it's better to see the result in center page and
 `npm install`
 `npm run dev`
 
+### Problem7 - Task List
+
+`cd task-list`
+`npm install`
+`npm run dev`
+
