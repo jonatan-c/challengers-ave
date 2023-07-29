@@ -23,3 +23,6 @@ Item2 - Function to get all Pokémon that belong to two specific types
 
 Item3 - Function to get the number of a Pokémon by name.
 `node item3.js`
+
+Item4 - Function to get the 6 base stats of a Pokémon by its number
+`node item4`
