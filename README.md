@@ -27,5 +27,5 @@ Item3 - Function to get the number of a Pokémon by name.
 Item4 - Function to get the 6 base stats of a Pokémon by its number
 `node item4`
 
-Item4 - Function to get data of a Pokémon by its ID
+Item5 - Function to get data of a Pokémon by its ID and Function to sort Pokémon based on the specified indicator 
 `node item5.js`
