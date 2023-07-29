@@ -12,3 +12,23 @@ In line 15 and 16 you can change the values of the variables `x` and `y` to test
 
 `node index.js`
 
+## Problem2 - Functions with pokemon api.
+    
+You can choice the item.
+Item1 - Get total of pokemons by type.
+`node item1.js`
+
+Item2 - Function to get all Pokémon that belong to two specific types
+`node item2.js`
+
+Item3 - Function to get the number of a Pokémon by name.
+`node item3.js`
+
+Item4 - Function to get the 6 base stats of a Pokémon by its number
+`node item4`
+
+Item5 - Function to get data of a Pokémon by its ID and Function to sort Pokémon based on the specified indicator 
+`node item5.js`
+
+Item6 - Function to check if a Pokémon has a specific type by its number
+`node item6.js`
