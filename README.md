@@ -49,3 +49,4 @@ Item6 - Function to check if a Pokémon has a specific type by its number
 
 
 I change the ui because I think it's better to see the result in center page and not occupy all page (width);
+
