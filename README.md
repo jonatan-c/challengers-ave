@@ -50,3 +50,9 @@ Item6 - Function to check if a Pokémon has a specific type by its number
 
 I change the ui because I think it's better to see the result in center page and not occupy all page (width);
 
+### Problem6 - Page to search a pokemon by name o number
+
+`cd pokemon-api-page`
+`npm install`
+`npm run dev`
+
