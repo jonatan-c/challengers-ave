@@ -62,3 +62,8 @@ I change the ui because I think it's better to see the result in center page and
 `npm install`
 `npm run dev`
 
+### Problem8 - Page gallery
+
+`cd gallery`
+`npm install`
+`npm run dev`
